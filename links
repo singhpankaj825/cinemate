@@ -1,0 +1,28 @@
+15cfa735fa9643f7738ca2ad99e8fca7
+
+Search : https://api.themoviedb.org/3/search/movie
+
+Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxNWNmYTczNWZhOTY0M2Y3NzM4Y2EyYWQ5OWU4ZmNhNyIsIm5iZiI6MTc2NTU0MjAzNi40NDk5OTk4LCJzdWIiOiI2OTNjMDg5NDdjY2VkNDMzNjIwYzE3NGEiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.hIRebQdLrrI9ppdKzmtCiuyhXl4eZMYdDGAEQKrFeNw
+
+
+Individual:
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=15cfa735fa9643f7738ca2ad99e8fca7
+
+
+Now Playing:
+https://api.themoviedb.org/3/movie/now_playing?api_key=15cfa735fa9643f7738ca2ad99e8fca7
+
+Popular:
+https://api.themoviedb.org/3/movie/popular?api_key=15cfa735fa9643f7738ca2ad99e8fca7
+
+
+Top Rated:
+https://api.themoviedb.org/3/movie/top_rated?api_key=15cfa735fa9643f7738ca2ad99e8fca7
+
+
+Upcoming:
+https://api.themoviedb.org/3/movie/upcoming?api_key=15cfa735fa9643f7738ca2ad99e8fca7
+
+
+Search:
+https://api.themoviedb.org/3/search/movie?api_key=15cfa735fa9643f7738ca2ad99e8fca7
